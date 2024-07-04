@@ -1,0 +1,3 @@
+game["Run Service"].Heartbeat:Connect(function()
+ game.ReplicatedStorage["      "]:InvokeServer()
+end)
